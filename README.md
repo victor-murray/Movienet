@@ -1,5 +1,5 @@
 # Movienet: 
-a novel deep learning approach for 4D MRI reconstruction that exploits space-time-coil correlations and motion preservation instead of k-space data consistency to accelerate the acquisition of golden-angle radial data and enable sub-second reconstruction times in dynamic MRI.
+A novel deep learning approach for 4D MRI reconstruction that exploits space-time-coil correlations and motion preservation instead of k-space data consistency to accelerate the acquisition of golden-angle radial data and enable sub-second reconstruction times in dynamic MRI.
 
 Files located at: https://www.kaggle.com/datasets/victormurray/movienet
 
