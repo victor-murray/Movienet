@@ -5,4 +5,4 @@ Files located at: https://www.kaggle.com/datasets/victormurray/movienet
 
 Please, use this citation:
 
-Murray V, Siddiq S, Crane C, El Homsi M, Kim T, Wu C, Otazo R. Movienet: deep space-time-coil reconstruction network without k-space data consistency for fast motion-resolved 4D MRI. In second revision in Magnetic Resonance in Medicine. 2023 Sep.
+_Murray V, Siddiq S, Crane C, et al. Movienet: Deep space– time coil reconstruction network without k-space data consistency for fast motion- resolved 4D MRI. Magn Reson Med. 2023;1-15. doi: 10.1002/mrm.29892_
