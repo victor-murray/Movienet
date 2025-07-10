@@ -10,9 +10,9 @@ CUDA_VISIBLE_DEVICES= python Movienet.py  myx5d.mat  4Dmrioutput.mat
 # # # # # # # # # # # # # # # # # # # # 
 Please, use this citation:
 Murray V, Siddiq S, Crane C, El Homsi M, Kim T, Wu C, Otazo R. 
-Movienet: deep space-time-coil reconstruction network without 
+Movienet: Deep space-time-coil reconstruction network without 
 k-space data consistency for fast motion-resolved 4D MRI. 
-In second revision in Magnetic Resonance in Medicine. 2023 Sep.
+Magn Reson Med. 2024; 91: 600–614. doi: 10.1002/mrm.29892
 '''
 #
 ######################
